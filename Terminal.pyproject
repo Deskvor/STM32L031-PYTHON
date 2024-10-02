@@ -1,0 +1,8 @@
+{
+    "files": [
+        "configure.py",
+        "configure.ui",
+        "mainwindow.py",
+        "mainwindow.ui"
+    ]
+}
